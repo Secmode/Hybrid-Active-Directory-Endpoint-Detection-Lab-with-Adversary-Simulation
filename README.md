@@ -1,2 +1,3 @@
-# -Hybrid-Active-Directory-Endpoint-Detection-Lab-with-Adversary-Simulation
-Built a hybrid SOC lab integrating Active Directory, Microsoft Defender for Endpoint (cloud), and Splunk SIEM. Simulated attacks from Kali Linux and monitored detection across endpoints and network infrastructure. Used Splunk for log correlation and Defender for real-time alerting and response.
+# Hybrid SOC Lab: Active Directory, Splunk SIEM, Microsoft Defender, pfSense Firewall, and Kali Linux
+## Overview
+This project simulates a real-world Security Operations Center (SOC) environment. It integrates Windows Server 2022 (Active Directory), Windows 10 endpoint protection via Microsoft Defender for Endpoint (Cloud), Splunk SIEM on Ubuntu, pfSense firewall for network segmentation, and Kali Linux for adversary simulation. The lab demonstrates log ingestion, threat detection, and incident response workflows.
