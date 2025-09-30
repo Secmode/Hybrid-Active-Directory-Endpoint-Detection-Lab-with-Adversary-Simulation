@@ -58,7 +58,9 @@ The lab covers a wide range of **SOC (Security Operations Center)**, including:
   </tr>
 </table>
 ``
-<img width="1886" height="565" alt="image" src="https://github.com/user-attachments/assets/ffb17b33-9f4e-4672-9228-552c77746726" />
+<img width="1502" height="503" alt="Screenshot 2025-09-29 233948" src="https://github.com/user-attachments/assets/18331d47-70ba-4836-b9af-aabb17123d1f" />
+<img width="1901" height="863" alt="Screenshot 2025-09-28 105800" src="https://github.com/user-attachments/assets/e2807452-253e-4456-97ae-6d259aed96bc" />
+
 <img width="1892" height="873" alt="Screenshot 2025-09-28 105931" src="https://github.com/user-attachments/assets/00cb5cd2-07d2-418d-91f2-d21cf7a0720a" />
 <img width="1511" height="815" alt="image" src="https://github.com/user-attachments/assets/8e38394b-9ed0-42f2-bc8d-1bb24b192d83" />
 <img width="1710" height="1011" alt="Screenshot 2025-09-29 210133" src="https://github.com/user-attachments/assets/b28a6cf8-8a42-4f31-8184-893bd1de12b6" />
@@ -85,6 +87,22 @@ The lab covers a wide range of **SOC (Security Operations Center)**, including:
 
 ## Microsoft Defender for Endpoint Integration
 **Integrated Microsoft Defender for Endpoint by activating a Defender Plan 2 trial, onboarding a Windows 10 device using a local script, and validating the device in the Defender portal, documented with screenshots.**
+<img width="1557" height="832" alt="Screenshot 2025-09-28 112110" src="https://github.com/user-attachments/assets/85fd1ca9-4c39-4810-92fb-480223150d5e" />
+<img width="1898" height="913" alt="Screenshot 2025-09-28 121451" src="https://github.com/user-attachments/assets/eca4bfea-1362-42d3-a6f2-d2406c3cd107" />
+<img width="1896" height="846" alt="Screenshot 2025-09-28 121655" src="https://github.com/user-attachments/assets/abedf677-2ac2-49e2-be0d-640e137f6c6c" />
+<img width="1328" height="784" alt="Screenshot 2025-09-28 123116" src="https://github.com/user-attachments/assets/87b0b30b-c6e0-4c89-8eb4-d564e3e065e6" />
+<img width="1685" height="813" alt="Screenshot 2025-09-28 123748" src="https://github.com/user-attachments/assets/e94acfac-3b7d-4fb3-ad2a-0bb713822c52" />
+<img width="1900" height="720" alt="Screenshot 2025-09-28 124637" src="https://github.com/user-attachments/assets/fc360059-45ba-49c3-a4a7-a45f2252cfeb" />
+<img width="1517" height="984" alt="Screenshot 2025-09-28 143205" src="https://github.com/user-attachments/assets/1ca43be0-50d6-4da4-8b29-6715c6ea42ea" />
+<img width="1103" height="619" alt="Screenshot 2025-09-28 140906" src="https://github.com/user-attachments/assets/137c4b1d-0e79-422b-94d7-530ed08fffe0" />
+
+
+
+
+
+
+
+
 
 
 
