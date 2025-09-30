@@ -58,6 +58,7 @@ The lab covers a wide range of **SOC (Security Operations Center)**, including:
 </table>
 ``
 <img width="1511" height="815" alt="image" src="https://github.com/user-attachments/assets/8e38394b-9ed0-42f2-bc8d-1bb24b192d83" />
+<img width="1710" height="1011" alt="Screenshot 2025-09-29 210133" src="https://github.com/user-attachments/assets/b28a6cf8-8a42-4f31-8184-893bd1de12b6" />
 
 
 ===============================================================================================
