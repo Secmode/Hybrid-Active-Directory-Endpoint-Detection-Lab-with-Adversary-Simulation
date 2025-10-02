@@ -34,14 +34,28 @@ The lab covers a wide range of **SOC (Security Operations Center)**, including:
 
 **Tools Used:** VirtualBox, Microsoft 365 Defender Portal EDR (Cloud), Sysmon, Splunk Universal Forwarder, SPL (Search Processing Language), Advanced Hunting (KQL), Hydra, Metasploit Framework, EICAR Test File, draw.io / diagrams.net
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/c607fa31-cbc6-45d6-8f48-4cefea799f11" />
-## Step-by-Step Setup
+## Oracle VM VirtualBox lab Step-by-Step Setup
 ---
-
-## Oracle VM VirtualBox lab with pfSense managing VM traffic
-**I configured pfSense as the network gateway to manage all VM traffic, setting firewall rules to allow only web traffic (HTTP/HTTPS), enforce DNS resolution through pfSense, block all other traffic, and monitor connected devices via the DHCP leases dashboard.**
 <img width="1414" height="655" alt="image" src="https://github.com/user-attachments/assets/e78949a1-763c-4c9a-a889-6f1d2b6ad843" />
+
+
+</details>
+
+<details>
+<summary>VM Network traffic Managment</summary>
+
+## FfSense managing VM traffic
+**I configured pfSense as the network gateway to manage all VM traffic, setting firewall rules to allow only web traffic (HTTP/HTTPS), enforce DNS resolution through pfSense, block all other traffic, and monitor connected devices via the DHCP leases dashboard.**
+<img width="1628" height="910" alt="image" src="https://github.com/user-attachments/assets/63b5c52c-b7eb-499b-a857-d1ff6d2b3672" />
 <img width="1225" height="734" alt="image" src="https://github.com/user-attachments/assets/57c282ea-65a5-4d67-a720-5d7ed0b77bb5" />
 <img width="1600" height="731" alt="image" src="https://github.com/user-attachments/assets/da9fecb8-041e-4901-81b1-c80d7f15c89d" />
+
+</details>
+
+</details>
+
+<details>
+<summary>Window Server  and Entra ID setup</summary>
 
 ## Active Directory Configuration
 **Configured Active Directory in Windows Server 2022 with DNS and hybrid management, creating OUs, users, joining a Windows 10 VM to the domain, and syncing all users to Entra ID., with screenshots showing installation, syn structure, and domain join confirmation.**
@@ -65,11 +79,12 @@ The lab covers a wide range of **SOC (Security Operations Center)**, including:
 <img width="1511" height="815" alt="image" src="https://github.com/user-attachments/assets/8e38394b-9ed0-42f2-bc8d-1bb24b192d83" />
 <img width="1710" height="1011" alt="Screenshot 2025-09-29 210133" src="https://github.com/user-attachments/assets/b28a6cf8-8a42-4f31-8184-893bd1de12b6" />
 
+</details>
 
+</details>
 
-
-
-
+<details>
+<summary>SIEM Setup</summary>
 
 ## Splunk SIEM Setup
 **Installed and configured Splunk SIEM with Splunk on Ubuntu Server, Universal Forwarder on Windows machines, and configured inputs for Security, System, Sysmon, Microsoft Defender, pfSense, Microsoft-Windows-Sense/Operational, and Application logs.**
@@ -85,6 +100,13 @@ The lab covers a wide range of **SOC (Security Operations Center)**, including:
 <img width="1921" height="628" alt="Screenshot 2025-09-28 151148" src="https://github.com/user-attachments/assets/16fc8969-3c3c-4a1a-ac88-5d5454507d99" />
 <img width="1903" height="504" alt="Screenshot 2025-09-28 151431" src="https://github.com/user-attachments/assets/1f382d40-e7b0-43e3-8df7-e33667177352" />
 
+</details>
+
+</details>
+
+<details>
+<summary>EDR Setup </summary>
+
 ## Microsoft Defender for Endpoint Integration
 **Integrated Microsoft Defender for Endpoint by activating a Defender Plan 2 trial, onboarding a Windows 10 device using a local script, and validating the device in the Defender portal, documented with screenshots.**
 <img width="1557" height="832" alt="Screenshot 2025-09-28 112110" src="https://github.com/user-attachments/assets/85fd1ca9-4c39-4810-92fb-480223150d5e" />
@@ -95,6 +117,9 @@ The lab covers a wide range of **SOC (Security Operations Center)**, including:
 <img width="1900" height="720" alt="Screenshot 2025-09-28 124637" src="https://github.com/user-attachments/assets/fc360059-45ba-49c3-a4a7-a45f2252cfeb" />
 <img width="1517" height="984" alt="Screenshot 2025-09-28 143205" src="https://github.com/user-attachments/assets/1ca43be0-50d6-4da4-8b29-6715c6ea42ea" />
 <img width="1103" height="619" alt="Screenshot 2025-09-28 140906" src="https://github.com/user-attachments/assets/137c4b1d-0e79-422b-94d7-530ed08fffe0" />
+
+</details>
+
 
 
 
